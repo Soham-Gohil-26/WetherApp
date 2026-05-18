@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A simple and responsive Weather App that fetches real-time weather data using a weather API. Users can search for any city and view current weather conditions instantly.
+A simple and responsive Weather App that fetches real-time weather data using a weather API. Users can search for any city and view current weather conditions instantly..
 
 ---
 
